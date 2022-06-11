@@ -1,5 +1,7 @@
-1)Forrest Gump
-2)Lost
-3)Pizza
-4)Summer
-5)England
+{
+"fav_film": "Forrest Gump",
+"fav_series": "Lost",
+"fav_food": "Pizza",
+"fav_season": "Summer",
+"country_to_vis": "England"
+}
